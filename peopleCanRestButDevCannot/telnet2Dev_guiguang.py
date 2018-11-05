@@ -595,6 +595,7 @@ class DevClass(object):
             pass
         else:
             print(u'注意！错误的倒换类型输入:%s:(目前支持的倒换输入:clear/lock/force/manual/resetMaster)' %(switchTpye))
+            
         self.deviceOnlineStateCheckExtend()#ping包检测，每轮ping5个包，除非丢包率为0，否则不会退出ping循环
         self.DevCmdCheck()#检测是否需要登录
         newMasterSlot=self.haSwitch('mz_check',async_switch,numberOfManagementCard)#递归调用自身
