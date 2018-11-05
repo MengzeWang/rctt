@@ -1,0 +1,11 @@
+(2018-11-01 09:20:09)-ping test with 4 packes round:1 pass,exit function
+(2018-11-01 09:20:10)-ping test with 2 packes round:1 pass,exit function
+(2018-11-01 09:21:46)-ping test with 4 packes round:1 pass,exit function
+(2018-11-01 09:21:47)-ping test with 2 packes round:1 pass,exit function
+(2018-11-01 09:23:21)-ping test with 4 packes round:1 did not pass,go next
+(2018-11-01 09:23:25)-ping test with 4 packes round:1 pass,exit function
+(2018-11-01 09:23:26)-ping test with 2 packes round:1 pass,exit function
+(2018-11-01 09:25:36)-ping test with 4 packes round:1 pass,exit function
+(2018-11-01 09:25:37)-ping test with 2 packes round:1 pass,exit function
+(2018-11-01 09:28:10)-ping test with 4 packes round:1 pass,exit function
+(2018-11-01 09:28:11)-ping test with 2 packes round:1 pass,exit function

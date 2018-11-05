@@ -1,0 +1,22 @@
+[anonymous]
+Password = NoPassword
+CanLogin = 1
+CanUpload = 0
+CanDownload = 1
+CanOverwrite = 0
+CanDelete = 0
+CanRename = 0
+CanRmdir = 0
+CanMkDir = 0
+UserDir = C:\Users\MZ\AppData\Local\Temp\
+[pydd]
+Password = E10ADC3949BA59ABBE56E057F20F883E
+CanLogin = 1
+CanUpload = 1
+CanDownload = 1
+CanOverwrite = 0
+CanDelete = 0
+CanRename = 0
+CanRmdir = 0
+CanMkDir = 0
+UserDir = D:\py_ftp_download\

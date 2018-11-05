@@ -1,0 +1,2 @@
+(2018-10-31 15:24:10)-ping test with 4 packes round:1 pass,exit function
+(2018-10-31 15:24:12)-ping test with 2 packes round:1 pass,exit function

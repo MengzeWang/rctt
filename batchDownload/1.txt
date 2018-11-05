@@ -1,0 +1,136 @@
+FtpIp 192.166.36.81
+start excute DevSendcmdUntil: b'show card' b'#'
+b' show card\r\nShelf Slot       AddedType       PowerType                PowerName                 State     Poll\r\n--------------------------------------------------------------------------------------------------\r\n  1     1          0x3810          0x3810              iTN8600-A-PG8              working     poll\r\n  1     4          0x350d          0x350d                iTN8600-SG8              working     poll\r\n  1     6          0x3810          0x3810              iTN8600-A-PG8              working     poll\r\n  1     7          0x3510          0x3510              iTN8600-A-SH2              working     poll\r\n* 1     9          0x3007          0x3007              iTN8600-A-NXU              working     poll\r\n  1    10          0x3007          0x3007              iTN8600-A-NXU              working     poll\r\n  1    11          0x3811          0x3811              iTN8600-A-PX4              working     poll\r\n  1    12          0x3811          0x3811              iTN8600-A-PX4              working     poll\r\n  1    13          0x3810          0x3810              iTN8600-A-PG8              working     poll\r\n  1    16          0x3811          0x3811              iTN8600-A-PX4              working     poll\r\n  1    18          0x3081          0x3081                      POWER              working     poll\r\n  1    19          0x3081          0x3081                      POWER              working     poll\r\n  1    20          0x3082          0x3082                       FANS              working     poll\r\n--------------------------------------------------------------------------------------------------\r\nRaisecom#'
+FtpIp 192.166.36.81
+start excute DevSendcmdUntil: b'show card' b'#'
+b' show card\r\nShelf Slot       AddedType       PowerType                PowerName                 State     Poll\r\n--------------------------------------------------------------------------------------------------\r\n  1     6          0x3810             0x0                  ?unknown?              offline     poll\r\n  1     7          0x3510          0x3510              iTN8600-A-SH2              working     poll\r\n  1     8          0x3510             0x0                  ?unknown?              offline     poll\r\n* 1     9          0x3007          0x3007              iTN8600-A-NXU              working     poll\r\n  1    10          0x3007          0x3007              iTN8600-A-NXU              working     poll\r\n  1    13          0x3506             0x0                  ?unknown?              offline     poll\r\n  1    14          0x3810          0x3810              iTN8600-A-PG8              working     poll\r\n  1    15          0x3811          0x3811              iTN8600-A-PX4              working     poll\r\n  1    16          0x3811          0x3811              iTN8600-A-PX4              working     poll\r\n  1    18          0x3081          0x3081                      POWER              working     poll\r\n  1    19          0x3081          0x3081                      POWER              working     poll\r\n  1    20          0x3082          0x3082                       FANS              working     poll\r\n--------------------------------------------------------------------------------------------------\r\nRaisecom#'
+Parent process 3692.
+['nxu_0:iTN8600-A-NXU_A_BOOTROM_780_20180906__bootrom.bin.bootrom']
+当前主机CPU核数：4
+初始化进程池最大容量：8
+开始分配升级任务
+
+正在 Ping 192.166.36.2 具有 32 字节的数据:
+来自 192.166.36.2 的回复: 字节=32 时间<1ms TTL=64
+来自 192.166.36.2 的回复: 字节=32 时间<1ms TTL=64
+来自 192.166.36.2 的回复: 字节=32 时间<1ms TTL=64
+来自 192.166.36.2 的回复: 字节=32 时间<1ms TTL=64
+来自 192.166.36.2 的回复: 字节=32 时间<1ms TTL=64
+
+192.166.36.2 的 Ping 统计信息:
+    数据包: 已发送 = 5，已接收 = 5，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+
+D:\py_ftp_download\\deviceUpgradeLog\\2018-09-21-192.166.36.2-log.txt
+ping test with 4 packes,round:1
+
+正在 Ping 192.166.36.2 具有 32 字节的数据:
+来自 192.166.36.2 的回复: 字节=32 时间<1ms TTL=64
+来自 192.166.36.2 的回复: 字节=32 时间=2ms TTL=64
+来自 192.166.36.2 的回复: 字节=32 时间=9ms TTL=64
+来自 192.166.36.2 的回复: 字节=32 时间<1ms TTL=64
+
+192.166.36.2 的 Ping 统计信息:
+    数据包: 已发送 = 4，已接收 = 4，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 9ms，平均 = 2ms
+
+ping test with 4 packes round:1 pass,exit function
+ping test with 4 packes round:1 pass,exit function
+ping test with 2 packes,round:1
+
+正在 Ping 192.166.36.2 具有 32 字节的数据:
+来自 192.166.36.2 的回复: 字节=32 时间<1ms TTL=64
+来自 192.166.36.2 的回复: 字节=32 时间<1ms TTL=64
+
+192.166.36.2 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+
+ping test with 2 packes round:1 pass,exit function
+ping test with 2 packes round:1 pass,exit function
+192.166.36.2--DevTelnetConnect success.
+start excute DevSendcmdUntil: b'\r\n' b'Login:'
+b'\r\n\r\nLogin:'
+start excute DevSendcmdUntil: b'raisecom' b'Password:'
+b' \r\nLogin: raisecom\r\nPassword:'
+start excute DevSendcmdWaitSomeTimes: b'raisecom'
+b' \r\n\x1b[2J\x1b[0;0HRaisecom> '
+start excute DevSendcmdWaitSomeTimes: b'ter time 0'
+b'ter time 0\r\nSet successfully !\r\nRaisecom> '
+start excute DevSendcmdWaitSomeTimes: b'ena'
+b'ena\r\nPassword: '
+start excute DevSendcmdUntil: b'raisecom' b'#'
+b'\r\nRaisecom#'
+start excute DevSendcmdUntil: b'show in sn' b'#'
+b' show in sn\r\n Interface:snmp\r\n   Administration Status : up   Operation Status : up\r\n   Description: snmp\r\n   Internet address: 192.166.36.2   Netmask: 255.255.255.0\r\n   Ethernet address: 00:18:05:18:00:01 \r\n   Duplex:full-duplex        Speed:100baseT  \r\n   Autonegotiation:enable\r\nRaisecom#'
+192.166.36.2--DevLogin success.
+same_segment_local_ip:192.166.36.81
+self.FtpIp 192.166.36.81
+
+正在 Ping 192.167.36.3 具有 32 字节的数据:
+来自 192.167.36.3 的回复: 字节=32 时间=2ms TTL=63
+来自 192.167.36.3 的回复: 字节=32 时间=1ms TTL=63
+来自 192.167.36.3 的回复: 字节=32 时间=2ms TTL=63
+来自 192.167.36.3 的回复: 字节=32 时间=2ms TTL=63
+来自 192.167.36.3 的回复: 字节=32 时间=2ms TTL=63
+
+192.167.36.3 的 Ping 统计信息:
+    数据包: 已发送 = 5，已接收 = 5，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 1ms，最长 = 2ms，平均 = 1ms
+
+D:\py_ftp_download\\deviceUpgradeLog\\2018-09-21-192.167.36.3-log.txt
+ping test with 4 packes,round:1
+
+正在 Ping 192.167.36.3 具有 32 字节的数据:
+来自 192.167.36.3 的回复: 字节=32 时间=1ms TTL=63
+来自 192.167.36.3 的回复: 字节=32 时间=2ms TTL=63
+来自 192.167.36.3 的回复: 字节=32 时间=1ms TTL=63
+来自 192.167.36.3 的回复: 字节=32 时间=1ms TTL=63
+
+192.167.36.3 的 Ping 统计信息:
+    数据包: 已发送 = 4，已接收 = 4，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 1ms，最长 = 2ms，平均 = 1ms
+
+ping test with 4 packes round:1 pass,exit function
+ping test with 4 packes round:1 pass,exit function
+ping test with 2 packes,round:1
+
+正在 Ping 192.167.36.3 具有 32 字节的数据:
+来自 192.167.36.3 的回复: 字节=32 时间=1ms TTL=63
+来自 192.167.36.3 的回复: 字节=32 时间=1ms TTL=63
+
+192.167.36.3 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 1ms，最长 = 1ms，平均 = 1ms
+
+ping test with 2 packes round:1 pass,exit function
+ping test with 2 packes round:1 pass,exit function
+192.167.36.3--DevTelnetConnect success.
+start excute DevSendcmdUntil: b'\r\n' b'Login:'
+b'\r\n\r\nLogin:'
+start excute DevSendcmdUntil: b'raisecom' b'Password:'
+b' \r\nLogin: raisecom\r\nPassword:'
+start excute DevSendcmdWaitSomeTimes: b'raisecom'
+b' \r\n\x1b[2J\x1b[0;0HRaisecom> '
+start excute DevSendcmdWaitSomeTimes: b'ter time 0'
+b'ter time 0\r\nSet successfully !\r\nRaisecom> '
+start excute DevSendcmdWaitSomeTimes: b'ena'
+b'ena\r\nPassword: '
+start excute DevSendcmdUntil: b'raisecom' b'#'
+b'\r\nRaisecom#'
+start excute DevSendcmdUntil: b'show in sn' b'#'
+b' show in sn\r\n Interface:snmp\r\n   Administration Status : up   Operation Status : down\r\n   Description: snmp\r\n   Internet address: 192.167.36.3   Netmask: 255.255.255.0\r\n   Ethernet address: 00:18:05:18:00:04 \r\n   Duplex:full-duplex        Speed:100baseT  \r\n   Autonegotiation:enable\r\nRaisecom#'
+192.167.36.3--DevLogin success.
+192.167.36.3 pingSuccessKeyLine is:      192.167.36.0    255.255.255.0     192.166.36.2      172.30.1.52     31
+same_segment_local_ip:192.166.36.81
+self.FtpIp 192.166.36.81
+所有进程已结束,升级结果请见py_ftp_download\upgrade_log文件夹下log
+未能找到本地同网段ip导致未能升级的设备有：
+未能ping通或存在丢包导致未能升级的设备有：
+检测到板卡状态为非工作态的有：
