@@ -39,7 +39,6 @@ y2009='''
 18、北京市石景山医院
 19、北京世纪坛医院（北京铁路总医院）'''
 
-
 y2010_list=y2010.splitlines()
 y2010_list2=[x.split('、')[-1].strip() for x in y2010_list]
 print(y2010_list2)
