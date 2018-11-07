@@ -16,23 +16,27 @@ def unpack_rar_toCurrentDir(file_path,file_name):
         #print os.listdir('.')
         for f in rf.infolist():
             print('%s,%s' %(f.filename, f.file_size))
-            rf.extract(f.filename)
-            shutil.move(f.filename,file_name[0:len(file_name)-4].replace('.','')+'__'+f.filename)
-            inside_files.append(file_name[0:len(file_name)-4].replace('.','')+'__'+f.filename)
+            try:
+                rf.extract(f.filename)
+                shutil.move(f.filename,file_name[0:len(file_name)-4].replace('.','')+'__'+f.filename)
+                inside_files.append(file_name[0:len(file_name)-4].replace('.','')+'__'+f.filename)
+            except:
+                print('an error occured when process unpack,skip this file:%s' % (f.filename))
         #rf.extractall()  
         rf.close()
     else:
         print('no such file %s,quit' %(file_name))
         return
     return inside_files
-#path=r'D:\py_ftp_download\doc_based_download\iTN8600-SH2E_B_SYSTEM_7.6.33_20180320\iTN8600-SH2E_B_SYSTEM_7.6.33_20180320'
+if __name__=='__main__':
+    path=r'D:\py_ftp_download\doc_based_download\iTN8600-A-SH2_A_SYSTEM_7.7.20_20181105\iTN8600-A-SH2_A_SYSTEM_7.7.20_20181105'
 
-#file_name=r'iTN8600-SH2E_B_SYSTEM_7.6.33_20180320.rar'
-#rar = rarfile.RarFile(file_name) 
-#rar.extractall('D:\pyS\\')  
-#print os.path.isfile(file_name)
-#print os.path.isdir(file_name2)
+    file_name=u'iTN8600-A-SH2试产配置文件和命令.rar'
+    #rar = rarfile.RarFile(file_name) 
+    #rar.extractall('D:\pyS\\')  
+    #print os.path.isfile(file_name)
+    #print os.path.isdir(file_name2)
 
-#a=unpack_rar_toCurrentDir(path,file_name)
-#print a
+    a=unpack_rar_toCurrentDir(path,file_name)
+    #print a
 
