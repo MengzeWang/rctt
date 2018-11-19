@@ -1,6 +1,5 @@
 #-*- encoding: utf8 -*-
 import os,shutil
-CUR_PATH = "D:\\wmz1"
 def del_file(path):
     ls = os.listdir(path)
     print('---',ls)
@@ -45,5 +44,6 @@ def del_Dir(path):
         os.rmdir(path)
 if __name__=='__main__':
     #del_file(CUR_PATH)
+    CUR_PATH = "D:\\wmz1"
     del_Dir(CUR_PATH)
     #os.rmdir(CUR_PATH)
