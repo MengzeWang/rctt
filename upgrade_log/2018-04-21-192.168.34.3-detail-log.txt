@@ -1,1126 +1,0 @@
- show interface snmp
- Interface:snmp
-   Administration Status : up   Operation Status : up
-   Description: snmp
-   Internet address: 192.168.34.3   Netmask: 255.255.255.0
-   Ethernet address: c8:50:e9:91:4a:ed 
-   Duplex:full-duplex        Speed:100baseT  
-   Autonegotiation:enable
-Raisecom# RS232 0 Ser_Receive Time out!!!-(2018-04-21 09:29:48)
-download svcfile fpga ftp
-
-(Enter '-' to return to the previous line.)
-
-Please input location of service board : -(2018-04-21 09:29:48)
-slot 6
-Please input server IP Address    :-(2018-04-21 09:29:48)
- 192.168.34.52
-Please input FTP User name        :-(2018-04-21 09:29:48)
- pydd
-Please input FTP Password         :-(2018-04-21 09:29:48)
- 123456
-Please input FTP Server File Name :-(2018-04-21 09:29:48)
- iTN8600-V-NTU_A4_U155_FPGA_2.1_20180313.rbf.rsh
-Are you sure[Y/N]:-(2018-04-21 09:29:48)
- show interface snmp
- Interface:snmp
-   Administration Status : up   Operation Status : up
-   Description: snmp
-   Internet address: 192.168.34.3   Netmask: 255.255.255.0
-   Ethernet address: c8:50:e9:91:4a:ed 
-   Duplex:full-duplex        Speed:100baseT  
-   Autonegotiation:enable
-Raisecom# RS232 0 Ser_Receive Time out!!!-(2018-04-21 09:30:56)
-download svcfile fpga ftp
-
-(Enter '-' to return to the previous line.)
-
-Please input location of service board : -(2018-04-21 09:30:56)
-slot 6
-Please input server IP Address    :-(2018-04-21 09:30:56)
- 192.168.34.52
-Please input FTP User name        :-(2018-04-21 09:30:56)
- pydd
-Please input FTP Password         :-(2018-04-21 09:30:56)
- 123456
-Please input FTP Server File Name :-(2018-04-21 09:30:56)
- iTN8600-V-NTU_A4_U155_FPGA_2.1_20180313.rbf.rsh
-Are you sure[Y/N]:-(2018-04-21 09:30:56)
-(2018-04-21 09:34:58)- show interface snmp
- Interface:snmp
-   Administration Status : up   Operation Status : up
-   Description: snmp
-   Internet address: 192.168.34.3   Netmask: 255.255.255.0
-   Ethernet address: c8:50:e9:91:4a:ed 
-   Duplex:full-duplex        Speed:100baseT  
-   Autonegotiation:enable
-Raisecom# RS232 0 Ser_Receive Time out!!!
-(2018-04-21 09:34:58)-download svcfile fpga ftp
-
-(Enter '-' to return to the previous line.)
-
-Please input location of service board : 
-(2018-04-21 09:34:58)-slot 6
-Please input server IP Address    :
-(2018-04-21 09:34:58)- 192.168.34.52
-Please input FTP User name        :
-(2018-04-21 09:34:58)- pydd
-Please input FTP Password         :
-(2018-04-21 09:34:58)- 123456
-Please input FTP Server File Name :
-(2018-04-21 09:34:59)- iTN8600-V-NTU_A4_U155_FPGA_2.1_20180313.rbf.rsh
-Are you sure[Y/N]:
-(2018-04-21 09:37:05)- show interface snmp
- Interface:snmp
-   Administration Status : up   Operation Status : up
-   Description: snmp
-   Internet address: 192.168.34.3   Netmask: 255.255.255.0
-   Ethernet address: c8:50:e9:91:4a:ed 
-   Duplex:full-duplex        Speed:100baseT  
-   Autonegotiation:enable
-Raisecom# RS232 0 Ser_Receive Time out!!!
-(2018-04-21 09:37:05)-download svcfile fpga ftp
-
-(Enter '-' to return to the previous line.)
-
-Please input location of service board : 
-(2018-04-21 09:37:05)-slot 6
-Please input server IP Address    :
-(2018-04-21 09:37:05)- 192.168.34.52
-Please input FTP User name        :
-(2018-04-21 09:37:05)- pydd
-Please input FTP Password         :
-(2018-04-21 09:37:05)- 123456
-Please input FTP Server File Name :
-(2018-04-21 09:37:05)- iTN8600-V-NTU_A4_U155_FPGA_2.1_20180313.rbf.rsh
-Are you sure[Y/N]:
-(2018-04-21 09:39:18)- show interface snmp
- Interface:snmp
-   Administration Status : up   Operation Status : up
-   Description: snmp
-   Internet address: 192.168.34.3   Netmask: 255.255.255.0
-   Ethernet address: c8:50:e9:91:4a:ed 
-   Duplex:full-duplex        Speed:100baseT  
-   Autonegotiation:enable
-Raisecom# RS232 0 Ser_Receive Time out!!!
-(2018-04-21 09:39:18)-download svcfile fpga ftp
-
-(Enter '-' to return to the previous line.)
-
-Please input location of service board : 
-(2018-04-21 09:39:18)-slot 6
-Please input server IP Address    :
-(2018-04-21 09:39:18)- 192.168.34.52
-Please input FTP User name        :
-(2018-04-21 09:39:18)- pydd
-Please input FTP Password         :
-(2018-04-21 09:39:19)- RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-123456
-Please input FTP Server File Name :
-(2018-04-21 09:39:19)- iTN8600-V-NTU_A4_U155_FPGA_2.1_20180313.rbf.rsh
-Are you sure[Y/N]:
-(2018-04-21 09:39:21)-y
-TRC-ERR : 493@sam_power_api.c
-Sam power get all status failed!
-RS232 0 Ser_Receive Time out!!!
-RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:39:26)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:39:26)
-Sam power get all status failed!-(2018-04-21 09:39:26)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:39:26)
--(2018-04-21 09:39:26)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:39:31)
-Sam power get all status failed!-(2018-04-21 09:39:31)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:39:31)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:39:31)
-Sam power get all status failed!-(2018-04-21 09:39:31)
--(2018-04-21 09:39:31)
--(2018-04-21 09:39:36)
-Loading file from server to ram, please wait...RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:39:36)
--(2018-04-21 09:39:36)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:39:41)
-Sam power get all status failed!-(2018-04-21 09:39:41)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:39:41)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:39:41)
-Sam power get all status failed!-(2018-04-21 09:39:41)
--(2018-04-21 09:39:41)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:39:46)
--(2018-04-21 09:39:46)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:39:51)
-Sam power get all status failed!-(2018-04-21 09:39:51)
-RS232 0 Ser_Receive Time out!!!-(2018-04-21 09:39:51)
-File length = 750395-(2018-04-21 09:39:51)
-Transmitting file to service board, transmitted   0%  0%  0%  0%  0%  0%  1%  1%  1%  1%  1%  1%  1%  2%  2%  2%  2%  2%  2%  3%  3%  3%  3%  3%  3%  4%  4%  4%  4%  4%  5%  5%  5%  5%  5%  6%  6%  6%  6%  6%  6%  7%  7%  7%  7%  7%  8%  8%RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:39:51)
-  8%  8%  8%  8%  9%  9%  9%  9%  9%  9% 10% 10% 10% 10% 10% 11% 11% 11% 11% 11% 11% 11% 12% 12% 12% 12% 12% 12% 13% 13% 13% 13% 13% 14% 14% 14% 14% 14% 14% 14% 15% 15% 15% 15% 15% 16% 16% 16% 16% 16% 16% 17% 17% 17% 17% 17% 18%TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:39:51)
-Sam power get all status failed!-(2018-04-21 09:39:51)
- 18% 18% 18% 18% 18% 19% 19% 19% 19% 19% 19% 19% 20% 20% 20% 20% 20% 21% 21% 21% 21% 21% 21% 21% 22% 22% 22% 22% 22% 23% 23% 23% 23% 23% 23% 23% 24% 24% 24% 24% 24% 25% 25% 25% 25% 25% 25% 25% 26% 26% 26% 26% 26% 27% 27% 27% 27% 27% 27% 28% 28% 28% 28% 28% 28% 28% 29% 29% 29% 29% 29% 29% 29% 30% 30% 30%-(2018-04-21 09:39:51)
- 30% 30% 30% 31% 31% 31% 31% 31% 31% 31% 32% 32% 32% 32% 32% 33% 33% 33% 33% 33% 33% 33% 34% 34% 34% 34% 34% 34% 35% 35% 35% 35% 35% 35% 35% 36% 36% 36% 36% 36% 37% 37% 37% 37% 37% 38% 38% 38% 38% 38% 38% 38% 39% 39% 39% 39% 39% 39% 40% 40% 40% 40% 40% 40% 41% 41% 41% 41% 41% 42% 42% 42% 42% 42% 42% 43% 43% 43% 43% 43% 44% 44% 44% 44% 44% 44% 45% 45% 45% 45% 45% 45% 46% 46% 46% 46% 46% 47% 47% 47% 47% 47% 47% 47% 48% 48% 48% 48% 48% 48% 49% 49% 49% 49% 49% 50% 50% 50% 50% 50% 50% 51% 51% 51% 51% 51% 51% 51% 52% 52% 52% 52% 52% 52% 53% 53% 53% 53% 53% 54% 54% 54% 54% 54% 54% 55% 55% 55% 55% 55% 55% 56% 56% 56% 56% 56% 56% 57% 57% 57% 57% 57% 57% 58% 58% 58% 58% 58% 58% 59% 59% 59% 59% 59% 59% 60% 60% 60% 60% 60% 60% 61% 61% 61% 61% 61% 62% 62% 62% 62% 62% 63% 63% 63% 63% 63% 63% 64% 64% 64% 64% 64% 64% 65% 65% 65% 65%RS232 0 Ser_Receive Time out!!! 65% 65% 66% 66% 66% 66% 66% 66% 66% 67% 67% 67% 67% 67% 67% 68% 68% 68% 68% 68% 68% 68% 68% 69% 69% 69% 69% 69% 69% 69% 70%RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:39:56)
- 70% 70% 70% 70% 71%-(2018-04-21 09:39:56)
- 71% 71% 71% 71% 71% 71% 72% 72% 72% 72% 72% 73% 73% 73% 73% 73% 73% 73% 73% 74% 74% 74% 74% 74% 74% 75% 75% 75% 75% 75% 76% 76% 76% 76% 76% 76% 76% 77% 77% 77% 77% 77% 77% 78% 78% 78% 78% 78% 78%TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:01)
-Sam power get all status failed!-(2018-04-21 09:40:01)
- 79% 79% 79% 79% 79% 80% 80% 80% 80% 80% 80% 80% 81% 81% 81% 81% 81% 81% 82% 82% 82% 82% 82% 82% 82% 83% 83% 83% 83% 83% 83% 84% 84% 84% 84% 84% 85% 85% 85% 85% 85% 85% 85% 86% 86% 86% 86% 86% 87% 87% 87% 87% 87% 87% 88% 88% 88% 88% 88% 88% 88% 89% 89% 89% 89% 89% 89%RS232 0 Ser_Receive Time out!!! 90% 90% 90% 90% 90% 90% 91% 91% 91% 91% 91% 92% 92% 92% 92% 92% 93% 93% 93% 93% 93% 93% 94% 94% 94% 94% 94% 94% 94% 95% 95% 95% 95% 95% 95% 96% 96% 96% 96% 96% 96% 96% 97% 97% 97% 97% 97% 97% 97% 98% 98% 98% 98% 98% 98% 98% 99% 99% 99% 99% 99%RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:01)
- 99%100%-(2018-04-21 09:40:01)
-Writing file to flash of service board, please wait... -(2018-04-21 09:40:01)
-Write flash about 500s, current waiting  0s  0sTRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:01)
-Sam power get all status failed!-(2018-04-21 09:40:01)
-  2s-(2018-04-21 09:40:01)
-  4sRS232 0 Ser_Receive Time out!!!  6sRS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:06)
--(2018-04-21 09:40:06)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:11)
-Sam power get all status failed!-(2018-04-21 09:40:11)
-  8sRS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:11)
- 10sTRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:11)
-Sam power get all status failed!-(2018-04-21 09:40:11)
- 12s-(2018-04-21 09:40:11)
-Finished.-(2018-04-21 09:40:11)
--(2018-04-21 09:40:16)
-Copy file successfully!-(2018-04-21 09:40:16)
-Raisecom# -(2018-04-21 09:40:16)
-Raisecom# -(2018-04-21 09:40:16)
-Raisecom# -(2018-04-21 09:40:16)
-Raisecom# -(2018-04-21 09:40:16)
-Raisecom# -(2018-04-21 09:40:16)
-Raisecom# -(2018-04-21 09:40:16)
-Raisecom# -(2018-04-21 09:40:16)
-Raisecom# -(2018-04-21 09:40:16)
-Raisecom# -(2018-04-21 09:40:16)
-Raisecom# -(2018-04-21 09:40:16)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:16)
--(2018-04-21 09:40:16)
--(2018-04-21 09:40:21)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:21)
-Sam power get all status failed!-(2018-04-21 09:40:21)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:21)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:21)
-Sam power get all status failed!-(2018-04-21 09:40:21)
--(2018-04-21 09:40:21)
--(2018-04-21 09:40:26)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:26)
--(2018-04-21 09:40:26)
--(2018-04-21 09:40:31)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:31)
-Sam power get all status failed!-(2018-04-21 09:40:31)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:31)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:31)
-Sam power get all status failed!-(2018-04-21 09:40:31)
--(2018-04-21 09:40:31)
--(2018-04-21 09:40:36)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:36)
--(2018-04-21 09:40:36)
--(2018-04-21 09:40:41)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:41)
-Sam power get all status failed!-(2018-04-21 09:40:41)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:41)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:41)
-Sam power get all status failed!-(2018-04-21 09:40:41)
--(2018-04-21 09:40:41)
--(2018-04-21 09:40:46)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:46)
--(2018-04-21 09:40:46)
--(2018-04-21 09:40:51)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:51)
-Sam power get all status failed!-(2018-04-21 09:40:51)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:51)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:40:51)
-Sam power get all status failed!-(2018-04-21 09:40:51)
--(2018-04-21 09:40:51)
--(2018-04-21 09:40:56)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:40:56)
--(2018-04-21 09:40:56)
--(2018-04-21 09:41:01)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:01)
-Sam power get all status failed!-(2018-04-21 09:41:01)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:01)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:01)
-Sam power get all status failed!-(2018-04-21 09:41:01)
--(2018-04-21 09:41:01)
--(2018-04-21 09:41:06)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:06)
--(2018-04-21 09:41:06)
--(2018-04-21 09:41:11)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:11)
-Sam power get all status failed!-(2018-04-21 09:41:11)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:11)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:11)
-Sam power get all status failed!-(2018-04-21 09:41:11)
--(2018-04-21 09:41:11)
--(2018-04-21 09:41:16)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:16)
--(2018-04-21 09:41:16)
--(2018-04-21 09:41:21)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:21)
-Sam power get all status failed!-(2018-04-21 09:41:21)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:21)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:21)
-Sam power get all status failed!-(2018-04-21 09:41:21)
--(2018-04-21 09:41:21)
--(2018-04-21 09:41:26)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:26)
--(2018-04-21 09:41:26)
--(2018-04-21 09:41:31)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:31)
-Sam power get all status failed!-(2018-04-21 09:41:31)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:31)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:31)
-Sam power get all status failed!-(2018-04-21 09:41:31)
--(2018-04-21 09:41:31)
--(2018-04-21 09:41:36)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:36)
--(2018-04-21 09:41:36)
--(2018-04-21 09:41:41)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:41)
-Sam power get all status failed!-(2018-04-21 09:41:41)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:41)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:41)
-Sam power get all status failed!-(2018-04-21 09:41:41)
--(2018-04-21 09:41:41)
--(2018-04-21 09:41:46)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:46)
--(2018-04-21 09:41:46)
--(2018-04-21 09:41:51)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:51)
-Sam power get all status failed!-(2018-04-21 09:41:51)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:51)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:41:51)
-Sam power get all status failed!-(2018-04-21 09:41:51)
--(2018-04-21 09:41:51)
--(2018-04-21 09:41:56)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:41:56)
--(2018-04-21 09:41:56)
--(2018-04-21 09:42:01)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:01)
-Sam power get all status failed!-(2018-04-21 09:42:01)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:01)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:01)
-Sam power get all status failed!-(2018-04-21 09:42:01)
--(2018-04-21 09:42:01)
--(2018-04-21 09:42:06)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:06)
--(2018-04-21 09:42:06)
--(2018-04-21 09:42:11)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:11)
-Sam power get all status failed!-(2018-04-21 09:42:11)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:11)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:11)
-Sam power get all status failed!-(2018-04-21 09:42:11)
--(2018-04-21 09:42:11)
--(2018-04-21 09:42:16)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:16)
--(2018-04-21 09:42:16)
--(2018-04-21 09:42:21)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:21)
-Sam power get all status failed!-(2018-04-21 09:42:21)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:21)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:21)
-Sam power get all status failed!-(2018-04-21 09:42:21)
--(2018-04-21 09:42:21)
--(2018-04-21 09:42:26)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:26)
--(2018-04-21 09:42:26)
--(2018-04-21 09:42:31)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:31)
-Sam power get all status failed!-(2018-04-21 09:42:31)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:31)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:31)
-Sam power get all status failed!-(2018-04-21 09:42:31)
--(2018-04-21 09:42:31)
--(2018-04-21 09:42:36)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:36)
--(2018-04-21 09:42:36)
--(2018-04-21 09:42:41)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:41)
-Sam power get all status failed!-(2018-04-21 09:42:41)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:41)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:41)
-Sam power get all status failed!-(2018-04-21 09:42:41)
--(2018-04-21 09:42:41)
--(2018-04-21 09:42:46)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:46)
--(2018-04-21 09:42:46)
--(2018-04-21 09:42:51)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:51)
-Sam power get all status failed!-(2018-04-21 09:42:51)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:51)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:42:51)
-Sam power get all status failed!-(2018-04-21 09:42:51)
--(2018-04-21 09:42:51)
--(2018-04-21 09:42:56)
-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:42:56)
--(2018-04-21 09:42:56)
--(2018-04-21 09:43:01)
-Raisecom# TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:43:01)
-Sam power get all status failed!-(2018-04-21 09:43:01)
-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!-(2018-04-21 09:43:01)
-TRC-ERR : 493@sam_power_api.c-(2018-04-21 09:43:01)
-Sam power get all status failed!-(2018-04-21 09:43:01)
--(2018-04-21 09:43:01)
-(2018-04-21 09:47:58)- show interface snmp
- Interface:snmp
-   Administration Status : up   Operation Status : up
-   Description: snmp
-   Internet address: 192.168.34.3   Netmask: 255.255.255.0
-   Ethernet address: c8:50:e9:91:4a:ed 
-   Duplex:full-duplex        Speed:100baseT  
-   Autonegotiation:enable
-Raisecom# RS232 0 Ser_Receive Time out!!!
-(2018-04-21 09:47:58)-download svcfile fpga ftp
-
-(Enter '-' to return to the previous line.)
-
-Please input location of service board : 
-(2018-04-21 09:47:58)-slot 6
-Please input server IP Address    :
-(2018-04-21 09:47:58)- 192.168.34.52
-Please input FTP User name        :
-(2018-04-21 09:47:58)- pydd
-Please input FTP Password         :
-(2018-04-21 09:47:59)- RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-123456
-Please input FTP Server File Name :
-(2018-04-21 09:47:59)- iTN8600-V-NTU_A4_U155_FPGA_2.1_20180313.rbf.rsh
-Are you sure[Y/N]:
-(2018-04-21 09:48:01)-y
-TRC-ERR : 493@sam_power_api.c
-Sam power get all status failed!
-RS232 0 Ser_Receive Time out!!!
-(2018-04-21 09:48:06)-RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:06)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:48:06)-Sam power get all status failed!
-(2018-04-21 09:48:06)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:06)-
-(2018-04-21 09:48:11)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:48:11)-Sam power get all status failed!
-(2018-04-21 09:48:11)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:11)-
-(2018-04-21 09:48:16)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:48:16)-Sam power get all status failed!
-(2018-04-21 09:48:16)-
-(2018-04-21 09:48:16)-Loading file from server to ram, please wait...RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:16)-
-(2018-04-21 09:48:21)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:48:21)-Sam power get all status failed!
-(2018-04-21 09:48:21)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:21)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:48:21)-Sam power get all status failed!
-(2018-04-21 09:48:21)-
-(2018-04-21 09:48:26)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:26)-
-(2018-04-21 09:48:31)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:48:31)-Sam power get all status failed!
-(2018-04-21 09:48:31)-RS232 0 Ser_Receive Time out!!!
-(2018-04-21 09:48:31)-File length = 750395
-(2018-04-21 09:48:31)-Transmitting file to service board, transmitted   0%  0%  0%RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:31)-  0%  0%  0%  1%  1%  1%  1%  1%  1%  1%  2%  2%  2%  2%  2%  3%  3%  3%  3%  3%  3%  4%  4%  4%  4%  4%  4%  4%  5%  5%  5%  5%  5%  6%  6%  6%  6%  6%  6%  6%  7%  7%  7%  7%  7%  8%  8%  8%  8%  8%  8%  9%  9%  9%  9%  9%  9%TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:48:31)-Sam power get all status failed!
-(2018-04-21 09:48:31)-  9% 10% 10% 10% 10% 10% 10% 10% 11% 11% 11% 11% 11% 12% 12% 12% 12% 12% 12% 13% 13% 13% 13% 13% 13% 14% 14% 14% 14% 14% 14% 14% 15% 15% 15% 15% 15% 16% 16% 16% 16% 16% 16% 16% 17% 17% 17% 17% 17% 17% 18% 18% 18% 18% 18% 18% 19% 19% 19% 19% 19% 19% 19% 20% 20% 20% 20% 20% 21% 21% 21% 21% 21% 21%
-(2018-04-21 09:48:36)- 22% 22% 22% 22% 22% 22% 23% 23% 23% 23% 23% 24% 24% 24% 24% 24% 24% 24% 25% 25% 25% 25% 25% 26% 26% 26% 26% 26% 26% 27% 27% 27% 27% 27% 27% 27% 28% 28% 28% 28% 28% 29% 29% 29% 29% 29% 29% 30% 30% 30% 30% 30% 30% 31% 31% 31% 31% 31% 31% 32% 32% 32% 32% 32% 32% 32% 33% 33% 33% 33% 33% 33% 34% 34% 34% 34% 34% 34% 35% 35% 35% 35% 35% 35% 36% 36% 36% 36% 36% 36% 37% 37% 37% 37% 37% 37% 37% 38% 38% 38% 38% 38% 38% 38% 39% 39% 39% 39% 39% 40% 40% 40% 40% 40% 40% 41% 41% 41% 41% 41% 41% 42% 42% 42% 42% 42% 42% 43% 43% 43% 43% 43% 43% 44% 44% 44% 44% 44% 44% 44% 44% 45% 45% 45% 45% 45% 45% 46% 46% 46% 46% 46% 46% 47% 47% 47% 47% 47% 47% 48% 48% 48% 48% 48% 48% 49% 49% 49% 49% 49% 49% 50% 50% 50% 50% 50% 51% 51% 51% 51% 51% 51% 51% 52% 52% 52% 52% 52% 52% 53% 53% 53% 53% 53% 54% 54% 54% 54% 54% 54% 54% 55% 55% 55% 55% 55% 56% 56% 56% 56% 56% 56% 57% 57% 57% 57% 57% 57% 57% 58% 58% 58% 58% 58% 58% 59% 59% 59% 59% 59%RS232 0 Ser_Receive Time out!!! 59% 60% 60% 60% 60% 60% 60% 60% 61% 61% 61% 61% 61% 61% 62% 62% 62% 62% 62% 62% 62% 63% 63% 63% 63% 63% 63% 64% 64% 64% 64% 64% 64% 64% 65% 65% 65% 65% 65% 65% 65% 66% 66% 66% 66% 66% 66% 67% 67% 67% 67% 67% 68% 68% 68% 68% 68% 68% 69% 69% 69%RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:36)- 69% 69% 70% 70% 70% 70% 70% 70% 71% 71% 71% 71% 71% 71%
-(2018-04-21 09:48:41)- 72% 72% 72% 72% 72% 72% 72% 73% 73% 73% 73% 73% 73% 74% 74% 74% 74% 74% 74% 74% 75% 75% 75% 75% 75% 75% 76% 76% 76% 76% 76% 77% 77% 77% 77% 77% 77% 77% 78% 78%TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:48:41)-Sam power get all status failed!
-(2018-04-21 09:48:41)- 78% 78% 78% 79% 79% 79% 79% 79% 79% 80% 80% 80% 80% 80% 81% 81% 81% 81% 81% 82% 82% 82% 82% 82% 82% 82% 83% 83% 83% 83% 83% 83% 84% 84% 84% 84% 84% 84% 85% 85% 85% 85% 85% 85% 85% 86% 86% 86% 86% 86% 87% 87% 87% 87% 87% 87% 88% 88% 88% 88% 88% 88% 89% 89% 89% 89% 89%RS232 0 Ser_Receive Time out!!! 89% 90% 90% 90% 90% 90% 90% 90% 91% 91% 91% 91% 91% 91% 92% 92% 92% 92% 92% 92% 93% 93% 93% 93% 93% 93% 94% 94% 94% 94% 94% 94% 95% 95% 95% 95% 95% 96% 96% 96% 96% 96% 97% 97% 97% 97% 97% 97% 98% 98% 98% 98% 98% 98% 99% 99% 99% 99% 99%RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:41)-100%
-(2018-04-21 09:48:41)-Writing file to flash of service board, please wait... 
-(2018-04-21 09:48:41)-Write flash about 500s, current waiting  0s  0sTRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:48:41)-Sam power get all status failed!
-(2018-04-21 09:48:41)-  2s
-(2018-04-21 09:48:46)-  4sRS232 0 Ser_Receive Time out!!!  6sRS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:46)-
-(2018-04-21 09:48:51)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:48:51)-Sam power get all status failed!
-(2018-04-21 09:48:51)-  8sRS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:51)- 10sTRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:48:51)-Sam power get all status failed!
-(2018-04-21 09:48:51)- 12s
-(2018-04-21 09:48:51)-Finished.
-(2018-04-21 09:48:56)-
-(2018-04-21 09:48:56)-Copy file successfully!
-(2018-04-21 09:48:56)-Raisecom# 
-(2018-04-21 09:48:56)-Raisecom# 
-(2018-04-21 09:48:56)-Raisecom# 
-(2018-04-21 09:48:56)-Raisecom# 
-(2018-04-21 09:48:56)-Raisecom# 
-(2018-04-21 09:48:56)-Raisecom# 
-(2018-04-21 09:48:56)-Raisecom# 
-(2018-04-21 09:48:56)-Raisecom# 
-(2018-04-21 09:48:56)-Raisecom# 
-(2018-04-21 09:48:56)-Raisecom# 
-(2018-04-21 09:48:56)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:48:56)-
-(2018-04-21 09:49:01)-
-(2018-04-21 09:49:01)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:01)-Sam power get all status failed!
-(2018-04-21 09:49:01)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:01)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:01)-Sam power get all status failed!
-(2018-04-21 09:49:01)-
-(2018-04-21 09:49:06)-
-(2018-04-21 09:49:06)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:06)-
-(2018-04-21 09:49:11)-
-(2018-04-21 09:49:11)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:11)-Sam power get all status failed!
-(2018-04-21 09:49:11)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:11)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:11)-Sam power get all status failed!
-(2018-04-21 09:49:11)-
-(2018-04-21 09:49:16)-
-(2018-04-21 09:49:16)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:16)-
-(2018-04-21 09:49:21)-
-(2018-04-21 09:49:21)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:21)-Sam power get all status failed!
-(2018-04-21 09:49:21)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:21)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:21)-Sam power get all status failed!
-(2018-04-21 09:49:21)-
-(2018-04-21 09:49:26)-
-(2018-04-21 09:49:26)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:26)-
-(2018-04-21 09:49:31)-
-(2018-04-21 09:49:31)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:31)-Sam power get all status failed!
-(2018-04-21 09:49:31)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:31)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:31)-Sam power get all status failed!
-(2018-04-21 09:49:31)-
-(2018-04-21 09:49:36)-
-(2018-04-21 09:49:36)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:36)-
-(2018-04-21 09:49:41)-
-(2018-04-21 09:49:41)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:41)-Sam power get all status failed!
-(2018-04-21 09:49:41)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:41)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:41)-Sam power get all status failed!
-(2018-04-21 09:49:41)-
-(2018-04-21 09:49:46)-
-(2018-04-21 09:49:46)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:46)-
-(2018-04-21 09:49:51)-
-(2018-04-21 09:49:51)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:51)-Sam power get all status failed!
-(2018-04-21 09:49:51)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:51)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:49:51)-Sam power get all status failed!
-(2018-04-21 09:49:51)-
-(2018-04-21 09:49:56)-
-(2018-04-21 09:49:56)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:49:56)-
-(2018-04-21 09:50:01)-
-(2018-04-21 09:50:01)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:01)-Sam power get all status failed!
-(2018-04-21 09:50:01)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:01)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:01)-Sam power get all status failed!
-(2018-04-21 09:50:01)-
-(2018-04-21 09:50:06)-
-(2018-04-21 09:50:06)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:06)-
-(2018-04-21 09:50:11)-
-(2018-04-21 09:50:11)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:11)-Sam power get all status failed!
-(2018-04-21 09:50:11)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:11)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:11)-Sam power get all status failed!
-(2018-04-21 09:50:11)-
-(2018-04-21 09:50:16)-
-(2018-04-21 09:50:16)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:16)-
-(2018-04-21 09:50:21)-
-(2018-04-21 09:50:21)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:21)-Sam power get all status failed!
-(2018-04-21 09:50:21)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:21)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:21)-Sam power get all status failed!
-(2018-04-21 09:50:21)-
-(2018-04-21 09:50:26)-
-(2018-04-21 09:50:26)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:26)-
-(2018-04-21 09:50:31)-
-(2018-04-21 09:50:31)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:31)-Sam power get all status failed!
-(2018-04-21 09:50:31)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:31)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:31)-Sam power get all status failed!
-(2018-04-21 09:50:31)-
-(2018-04-21 09:50:36)-
-(2018-04-21 09:50:36)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:36)-
-(2018-04-21 09:50:41)-
-(2018-04-21 09:50:41)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:41)-Sam power get all status failed!
-(2018-04-21 09:50:41)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:41)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:41)-Sam power get all status failed!
-(2018-04-21 09:50:41)-
-(2018-04-21 09:50:46)-
-(2018-04-21 09:50:46)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:46)-
-(2018-04-21 09:50:51)-
-(2018-04-21 09:50:51)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:51)-Sam power get all status failed!
-(2018-04-21 09:50:51)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:51)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:50:51)-Sam power get all status failed!
-(2018-04-21 09:50:51)-
-(2018-04-21 09:50:56)-
-(2018-04-21 09:50:56)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:50:56)-
-(2018-04-21 09:51:01)-
-(2018-04-21 09:51:01)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:01)-Sam power get all status failed!
-(2018-04-21 09:51:01)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:01)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:01)-Sam power get all status failed!
-(2018-04-21 09:51:01)-
-(2018-04-21 09:51:06)-
-(2018-04-21 09:51:06)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:06)-
-(2018-04-21 09:51:11)-
-(2018-04-21 09:51:11)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:11)-Sam power get all status failed!
-(2018-04-21 09:51:11)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:11)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:11)-Sam power get all status failed!
-(2018-04-21 09:51:11)-
-(2018-04-21 09:51:16)-
-(2018-04-21 09:51:16)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:16)-
-(2018-04-21 09:51:21)-
-(2018-04-21 09:51:21)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:21)-Sam power get all status failed!
-(2018-04-21 09:51:21)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:21)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:21)-Sam power get all status failed!
-(2018-04-21 09:51:21)-
-(2018-04-21 09:51:26)-
-(2018-04-21 09:51:26)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:26)-
-(2018-04-21 09:51:31)-
-(2018-04-21 09:51:31)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:31)-Sam power get all status failed!
-(2018-04-21 09:51:31)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:31)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:31)-Sam power get all status failed!
-(2018-04-21 09:51:31)-
-(2018-04-21 09:51:36)-
-(2018-04-21 09:51:36)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:36)-
-(2018-04-21 09:51:41)-
-(2018-04-21 09:51:41)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:41)-Sam power get all status failed!
-(2018-04-21 09:51:41)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:41)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:41)-Sam power get all status failed!
-(2018-04-21 09:51:41)-
-(2018-04-21 09:51:46)-
-(2018-04-21 09:51:46)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:46)-
-(2018-04-21 09:51:51)-
-(2018-04-21 09:51:51)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:51)-Sam power get all status failed!
-(2018-04-21 09:51:51)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:51)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:51:51)-Sam power get all status failed!
-(2018-04-21 09:51:51)-
-(2018-04-21 09:51:56)-
-(2018-04-21 09:51:56)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:51:56)-
-(2018-04-21 09:52:01)-
-(2018-04-21 09:52:01)-Raisecom# TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:01)-Sam power get all status failed!
-(2018-04-21 09:52:01)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:01)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:01)-Sam power get all status failed!
-(2018-04-21 09:52:01)-
-(2018-04-21 09:52:06)-
-(2018-04-21 09:52:06)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:06)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:06)-
-(2018-04-21 09:52:11)-Sam power get all status failed!
-(2018-04-21 09:52:11)-
-(2018-04-21 09:52:11)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:11)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:11)-Sam power get all status failed!
-(2018-04-21 09:52:11)-
-(2018-04-21 09:52:16)-
-(2018-04-21 09:52:16)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:16)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:16)-
-(2018-04-21 09:52:21)-Sam power get all status failed!
-(2018-04-21 09:52:21)-
-(2018-04-21 09:52:21)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:21)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:21)-Sam power get all status failed!
-(2018-04-21 09:52:21)-
-(2018-04-21 09:52:26)-
-(2018-04-21 09:52:26)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:26)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:26)-
-(2018-04-21 09:52:31)-Sam power get all status failed!
-(2018-04-21 09:52:31)-
-(2018-04-21 09:52:31)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:31)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:31)-Sam power get all status failed!
-(2018-04-21 09:52:31)-
-(2018-04-21 09:52:36)-
-(2018-04-21 09:52:36)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:36)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:36)-
-(2018-04-21 09:52:41)-Sam power get all status failed!
-(2018-04-21 09:52:41)-
-(2018-04-21 09:52:41)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:41)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:41)-Sam power get all status failed!
-(2018-04-21 09:52:41)-
-(2018-04-21 09:52:46)-
-(2018-04-21 09:52:46)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:46)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:46)-
-(2018-04-21 09:52:51)-Sam power get all status failed!
-(2018-04-21 09:52:51)-
-(2018-04-21 09:52:51)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:51)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:51)-Sam power get all status failed!
-(2018-04-21 09:52:51)-
-(2018-04-21 09:52:56)-
-(2018-04-21 09:52:56)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:52:56)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:52:56)-
-(2018-04-21 09:53:01)-Sam power get all status failed!
-(2018-04-21 09:53:02)-
-(2018-04-21 09:53:02)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:02)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:02)-Sam power get all status failed!
-(2018-04-21 09:53:02)-
-(2018-04-21 09:53:07)-
-(2018-04-21 09:53:07)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:07)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:07)-
-(2018-04-21 09:53:12)-Sam power get all status failed!
-(2018-04-21 09:53:12)-
-(2018-04-21 09:53:12)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:12)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:12)-Sam power get all status failed!
-(2018-04-21 09:53:12)-
-(2018-04-21 09:53:17)-
-(2018-04-21 09:53:17)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:17)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:17)-
-(2018-04-21 09:53:22)-Sam power get all status failed!
-(2018-04-21 09:53:22)-
-(2018-04-21 09:53:22)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:22)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:22)-Sam power get all status failed!
-(2018-04-21 09:53:22)-
-(2018-04-21 09:53:27)-
-(2018-04-21 09:53:27)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:27)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:27)-
-(2018-04-21 09:53:32)-Sam power get all status failed!
-(2018-04-21 09:53:32)-
-(2018-04-21 09:53:32)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:32)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:32)-Sam power get all status failed!
-(2018-04-21 09:53:32)-
-(2018-04-21 09:53:37)-
-(2018-04-21 09:53:37)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:37)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:37)-
-(2018-04-21 09:53:42)-Sam power get all status failed!
-(2018-04-21 09:53:42)-
-(2018-04-21 09:53:42)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:42)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:42)-Sam power get all status failed!
-(2018-04-21 09:53:42)-
-(2018-04-21 09:53:47)-
-(2018-04-21 09:53:47)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:47)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:47)-
-(2018-04-21 09:53:52)-Sam power get all status failed!
-(2018-04-21 09:53:52)-
-(2018-04-21 09:53:52)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:52)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:52)-Sam power get all status failed!
-(2018-04-21 09:53:52)-
-(2018-04-21 09:53:57)-
-(2018-04-21 09:53:57)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:53:57)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:53:57)-
-(2018-04-21 09:54:02)-Sam power get all status failed!
-(2018-04-21 09:54:02)-
-(2018-04-21 09:54:02)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:02)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:02)-Sam power get all status failed!
-(2018-04-21 09:54:02)-
-(2018-04-21 09:54:07)-
-(2018-04-21 09:54:07)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:07)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:07)-
-(2018-04-21 09:54:12)-Sam power get all status failed!
-(2018-04-21 09:54:12)-
-(2018-04-21 09:54:12)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:12)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:12)-Sam power get all status failed!
-(2018-04-21 09:54:12)-
-(2018-04-21 09:54:17)-
-(2018-04-21 09:54:17)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:17)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:17)-
-(2018-04-21 09:54:22)-Sam power get all status failed!
-(2018-04-21 09:54:22)-
-(2018-04-21 09:54:22)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:22)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:22)-Sam power get all status failed!
-(2018-04-21 09:54:22)-
-(2018-04-21 09:54:27)-
-(2018-04-21 09:54:27)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:27)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:27)-
-(2018-04-21 09:54:32)-Sam power get all status failed!
-(2018-04-21 09:54:32)-
-(2018-04-21 09:54:32)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:32)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:32)-Sam power get all status failed!
-(2018-04-21 09:54:32)-
-(2018-04-21 09:54:37)-
-(2018-04-21 09:54:37)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:37)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:37)-Sam power get all status failed!
-(2018-04-21 09:54:37)-
-(2018-04-21 09:54:42)-
-(2018-04-21 09:54:42)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:42)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:42)-Sam power get all status failed!
-(2018-04-21 09:54:42)-
-(2018-04-21 09:54:47)-
-(2018-04-21 09:54:47)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:47)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:47)-Sam power get all status failed!
-(2018-04-21 09:54:47)-
-(2018-04-21 09:54:52)-
-(2018-04-21 09:54:52)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:52)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:52)-Sam power get all status failed!
-(2018-04-21 09:54:52)-
-(2018-04-21 09:54:57)-
-(2018-04-21 09:54:57)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:54:57)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:54:57)-Sam power get all status failed!
-(2018-04-21 09:54:57)-
-(2018-04-21 09:55:02)-
-(2018-04-21 09:55:02)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:02)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:02)-Sam power get all status failed!
-(2018-04-21 09:55:02)-
-(2018-04-21 09:55:07)-
-(2018-04-21 09:55:07)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:07)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:07)-Sam power get all status failed!
-(2018-04-21 09:55:07)-
-(2018-04-21 09:55:12)-
-(2018-04-21 09:55:12)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:12)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:12)-Sam power get all status failed!
-(2018-04-21 09:55:12)-
-(2018-04-21 09:55:17)-
-(2018-04-21 09:55:17)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:17)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:17)-Sam power get all status failed!
-(2018-04-21 09:55:17)-
-(2018-04-21 09:55:22)-
-(2018-04-21 09:55:22)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:22)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:22)-Sam power get all status failed!
-(2018-04-21 09:55:22)-
-(2018-04-21 09:55:27)-
-(2018-04-21 09:55:27)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:27)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:27)-Sam power get all status failed!
-(2018-04-21 09:55:27)-
-(2018-04-21 09:55:32)-
-(2018-04-21 09:55:32)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:32)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:32)-Sam power get all status failed!
-(2018-04-21 09:55:32)-
-(2018-04-21 09:55:37)-
-(2018-04-21 09:55:37)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:37)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:37)-Sam power get all status failed!
-(2018-04-21 09:55:37)-
-(2018-04-21 09:55:42)-
-(2018-04-21 09:55:42)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:42)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:42)-Sam power get all status failed!
-(2018-04-21 09:55:42)-
-(2018-04-21 09:55:47)-
-(2018-04-21 09:55:47)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:47)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:47)-Sam power get all status failed!
-(2018-04-21 09:55:47)-
-(2018-04-21 09:55:52)-
-(2018-04-21 09:55:52)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:52)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:52)-Sam power get all status failed!
-(2018-04-21 09:55:52)-
-(2018-04-21 09:55:57)-
-(2018-04-21 09:55:57)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:55:57)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:55:57)-Sam power get all status failed!
-(2018-04-21 09:55:57)-
-(2018-04-21 09:56:02)-
-(2018-04-21 09:56:02)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:02)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:02)-Sam power get all status failed!
-(2018-04-21 09:56:02)-
-(2018-04-21 09:56:07)-
-(2018-04-21 09:56:07)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:07)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:07)-Sam power get all status failed!
-(2018-04-21 09:56:07)-
-(2018-04-21 09:56:12)-
-(2018-04-21 09:56:12)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:12)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:12)-Sam power get all status failed!
-(2018-04-21 09:56:12)-
-(2018-04-21 09:56:17)-
-(2018-04-21 09:56:17)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:17)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:17)-Sam power get all status failed!
-(2018-04-21 09:56:17)-
-(2018-04-21 09:56:22)-
-(2018-04-21 09:56:22)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:22)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:22)-Sam power get all status failed!
-(2018-04-21 09:56:22)-
-(2018-04-21 09:56:27)-
-(2018-04-21 09:56:27)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:27)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:27)-Sam power get all status failed!
-(2018-04-21 09:56:27)-
-(2018-04-21 09:56:32)-
-(2018-04-21 09:56:32)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:32)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:32)-Sam power get all status failed!
-(2018-04-21 09:56:32)-
-(2018-04-21 09:56:37)-
-(2018-04-21 09:56:37)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:37)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:37)-Sam power get all status failed!
-(2018-04-21 09:56:37)-
-(2018-04-21 09:56:42)-
-(2018-04-21 09:56:42)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:42)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:42)-Sam power get all status failed!
-(2018-04-21 09:56:42)-
-(2018-04-21 09:56:47)-
-(2018-04-21 09:56:47)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:47)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:47)-Sam power get all status failed!
-(2018-04-21 09:56:47)-
-(2018-04-21 09:56:52)-
-(2018-04-21 09:56:52)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:52)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:52)-Sam power get all status failed!
-(2018-04-21 09:56:52)-
-(2018-04-21 09:56:57)-
-(2018-04-21 09:56:57)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:56:57)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:56:57)-Sam power get all status failed!
-(2018-04-21 09:56:57)-
-(2018-04-21 09:57:02)-
-(2018-04-21 09:57:02)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:57:02)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:57:02)-Sam power get all status failed!
-(2018-04-21 09:57:02)-
-(2018-04-21 09:57:07)-
-(2018-04-21 09:57:07)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:57:07)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:57:07)-Sam power get all status failed!
-(2018-04-21 09:57:07)-
-(2018-04-21 09:57:12)-
-(2018-04-21 09:57:12)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:57:12)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:57:12)-Sam power get all status failed!
-(2018-04-21 09:57:12)-
-(2018-04-21 09:57:17)-
-(2018-04-21 09:57:17)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:57:17)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:57:17)-Sam power get all status failed!
-(2018-04-21 09:57:17)-
-(2018-04-21 09:57:22)-
-(2018-04-21 09:57:22)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:57:22)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:57:22)-Sam power get all status failed!
-(2018-04-21 09:57:22)-
-(2018-04-21 09:57:27)-
-(2018-04-21 09:57:27)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:57:27)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:57:27)-Sam power get all status failed!
-(2018-04-21 09:57:27)-
-(2018-04-21 09:57:32)-
-(2018-04-21 09:57:32)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 09:57:32)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 09:57:32)-Sam power get all status failed!
-(2018-04-21 09:57:32)-
-(2018-04-21 10:00:28)- show interface snmp
- Interface:snmp
-   Administration Status : up   Operation Status : up
-   Description: snmp
-   Internet address: 192.168.34.3   Netmask: 255.255.255.0
-   Ethernet address: c8:50:e9:91:4a:ed 
-   Duplex:full-duplex        Speed:100baseT  
-   Autonegotiation:enable
-Raisecom# RS232 0 Ser_Receive Time out!!!
-(2018-04-21 10:00:28)-download svcfile fpga ftp
-
-(Enter '-' to return to the previous line.)
-
-Please input location of service board : 
-(2018-04-21 10:00:28)-slot 6
-Please input server IP Address    :
-(2018-04-21 10:00:28)- 192.168.34.52
-Please input FTP User name        :
-(2018-04-21 10:00:29)- pydd
-Please input FTP Password         :
-(2018-04-21 10:00:29)- 123456
-Please input FTP Server File Name :
-(2018-04-21 10:00:29)- iTN8600-V-NTU_A4_U155_FPGA_2.1_20180313.rbf.rsh
-Are you sure[Y/N]:
-(2018-04-21 10:00:31)-y
-RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-TRC-ERR : 493@sam_power_api.c
-Sam power get all status failed!
-
-(2018-04-21 10:00:36)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:00:36)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:00:36)-Sam power get all status failed!
-(2018-04-21 10:00:36)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:00:36)-
-(2018-04-21 10:00:41)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:00:41)-Sam power get all status failed!
-(2018-04-21 10:00:41)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:00:41)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:00:41)-Sam power get all status failed!
-(2018-04-21 10:00:41)-
-(2018-04-21 10:00:46)-
-(2018-04-21 10:00:46)-Loading file from server to ram, please wait...RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:00:46)-
-(2018-04-21 10:00:51)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:00:51)-Sam power get all status failed!
-(2018-04-21 10:00:51)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:00:51)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:00:51)-Sam power get all status failed!
-(2018-04-21 10:00:51)-
-(2018-04-21 10:00:56)-
-(2018-04-21 10:00:56)-File length = 750395
-(2018-04-21 10:00:56)-Transmitting file to service board, transmitted   0%  0%  0%  0%  0%  0%  1%  1%  1%  1%  1%  1%  1%  2%  2%  2%  2%  2%  2%  2%  3%  3%  3%  3%  3%  3%  4%  4%  4%  4%  4%  4%  5%  5%  5%  5%  5%  6%  6%  6%  6%  6%  7%  7%  7%  7%  7%  7%  8%  8%RS232 0 Ser_Receive Time out!!!  8%  8%  8%  8%  9%  9%  9%  9%  9% 10% 10% 10% 10% 10% 10% 11% 11% 11% 11% 11% 12% 12% 12% 12% 12% 12% 13% 13% 13% 13% 13% 14% 14% 14% 14% 14% 15% 15% 15% 15% 15% 15% 15% 16% 16% 16% 16% 16% 16% 17% 17% 17% 17% 17% 17% 18% 18% 18% 18%
-(2018-04-21 10:01:01)- 18% 19%RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:01)- 19% 19% 19% 19% 19% 19% 20% 20% 20% 20% 20% 20% 21% 21% 21% 21% 21% 21% 22% 22% 22% 22% 22% 22% 23% 23% 23% 23% 23% 23% 23% 24% 24% 24% 24% 24% 24% 25% 25% 25% 25% 25% 25% 26% 26% 26% 26% 26% 26% 27% 27% 27% 27% 27% 27%TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:01)-Sam power get all status failed!
-(2018-04-21 10:01:01)- 28% 28% 28% 28% 28% 28% 29% 29% 29% 29% 29% 29% 29% 30% 30% 30% 30% 30% 30% 31% 31% 31% 31% 31% 31% 32% 32% 32% 32% 32% 32% 33% 33% 33% 33% 33% 33% 33% 34% 34% 34% 34% 34% 34% 35% 35% 35% 35% 35% 35% 35% 36% 36% 36% 36% 36% 36% 37% 37% 37% 37% 37% 38% 38% 38% 38%RS232 0 Ser_Receive Time out!!! 38% 39% 39% 39% 39% 39% 39% 40% 40% 40% 40% 40% 40% 41% 41% 41% 41% 41% 41% 42% 42% 42% 42% 42% 42% 43% 43% 43% 43% 43% 44% 44% 44% 44% 44% 44% 45% 45% 45% 45% 45% 45% 46% 46% 46% 46% 46% 46% 46% 47% 47% 47% 47% 47% 48% 48% 48% 48% 48% 48% 48%RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:01)- 49% 49% 49% 49% 49% 49% 50% 50% 50% 50% 50% 51% 51% 51% 51% 51% 51% 52% 52% 52% 52% 52% 53% 53% 53% 53% 53% 53% 54% 54% 54% 54% 54% 55% 55% 55% 55% 55% 55% 56% 56% 56% 56% 56% 56% 56% 57% 57% 57% 57% 57% 57% 58% 58% 58% 58% 58% 59% 59%TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:01)-Sam power get all status failed!
-(2018-04-21 10:01:01)- 59% 59% 59% 59% 59% 60% 60% 60% 60% 60% 61% 61% 61% 61% 61% 61% 62% 62% 62% 62% 62% 62% 62% 63% 63% 63% 63% 63% 63% 64% 64% 64% 64% 64% 64% 65% 65% 65% 65% 65% 65% 66% 66% 66% 66% 66% 67% 67% 67% 67% 67% 67% 68% 68% 68% 68% 68% 68% 68% 68% 69% 69% 69%
-(2018-04-21 10:01:06)- 69% 69% 69% 70% 70% 70% 70% 70% 71% 71% 71% 71% 71% 71% 71% 72% 72% 72% 72% 73% 73% 73% 73% 73% 73% 73% 74% 74% 74% 74% 74% 74% 75% 75% 75% 75% 75% 76% 76% 76% 76% 76% 76% 76% 76% 77% 77% 77% 77% 77% 78% 78% 78% 78% 78% 78% 79% 79% 79% 79% 79% 80% 80% 80% 80% 80% 80% 81% 81% 81% 81% 81% 82% 82% 82% 82% 82% 82% 83% 83% 83% 83% 83% 83% 84% 84% 84% 84% 84% 84% 85% 85% 85% 85% 85% 86% 86% 86% 86% 86% 87% 87% 87% 87% 87% 87% 87% 88% 88% 88% 88% 88% 89% 89% 89% 89% 89% 89% 90% 90% 90% 90% 90% 91% 91% 91% 91% 91% 91% 92% 92% 92% 92% 92% 92% 92% 93% 93% 93% 93% 93% 93% 94% 94% 94% 94% 94% 95% 95% 95% 95% 95% 95% 96% 96% 96% 96% 96% 96% 97% 97% 97% 97% 97% 97% 97% 98% 98% 98% 98% 98% 99% 99% 99% 99% 99%100%
-(2018-04-21 10:01:06)-Writing file to flash of service board, please wait... 
-(2018-04-21 10:01:06)-Write flash about 500s, current waiting  0s  0sRS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:06)-  2s
-(2018-04-21 10:01:11)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:11)-Sam power get all status failed!
-(2018-04-21 10:01:11)-RS232 0 Ser_Receive Time out!!!  4sRS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:11)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:11)-Sam power get all status failed!
-(2018-04-21 10:01:11)-  6s
-(2018-04-21 10:01:16)-  8s 10sRS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:16)- 12s
-(2018-04-21 10:01:16)-Finished.
-(2018-04-21 10:01:21)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:21)-Sam power get all status failed!
-(2018-04-21 10:01:21)-
-(2018-04-21 10:01:21)-Copy file successfully!
-(2018-04-21 10:01:21)-Raisecom# 
-(2018-04-21 10:01:21)-Raisecom# 
-(2018-04-21 10:01:21)-Raisecom# 
-(2018-04-21 10:01:21)-Raisecom# 
-(2018-04-21 10:01:21)-Raisecom# 
-(2018-04-21 10:01:21)-Raisecom# 
-(2018-04-21 10:01:21)-Raisecom# 
-(2018-04-21 10:01:21)-Raisecom# 
-(2018-04-21 10:01:21)-Raisecom# 
-(2018-04-21 10:01:21)-Raisecom# RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:21)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:21)-Sam power get all status failed!
-(2018-04-21 10:01:21)-
-(2018-04-21 10:01:23)-show interface snmp
- Interface:snmp
-   Administration Status : up   Operation Status : up
-   Description: snmp
-   Internet address: 192.168.34.3   Netmask: 255.255.255.0
-   Ethernet address: c8:50:e9:91:4a:ed 
-   Duplex:full-duplex        Speed:100baseT  
-   Autonegotiation:enable
-Raisecom# 
-(2018-04-21 10:01:23)-download svcfile bootrom ftp
-
-(Enter '-' to return to the previous line.)
-
-Please input location of service board : 
-(2018-04-21 10:01:23)-slot 6
-Please input server IP Address    :
-(2018-04-21 10:01:23)- 192.168.34.52
-Please input FTP User name        :
-(2018-04-21 10:01:23)- pydd
-Please input FTP Password         :
-(2018-04-21 10:01:23)- 123456
-Please input FTP Server File Name :
-(2018-04-21 10:01:23)- iTN8600-V-NTU_BOOTROM_761_20170918__bootrom.bin
-Are you sure[Y/N]:
-(2018-04-21 10:01:25)-y
-RS232 0 Ser_Receive Time out!!!
-(2018-04-21 10:01:30)-RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:30)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:30)-Sam power get all status failed!
-(2018-04-21 10:01:30)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:30)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:30)-Sam power get all status failed!
-(2018-04-21 10:01:30)-
-(2018-04-21 10:01:35)-RS232 0 Ser_Receive Time out!!!
-(2018-04-21 10:01:35)-Loading file from server to ram, please wait...
-(2018-04-21 10:01:40)-RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:40)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:40)-Sam power get all status failed!
-(2018-04-21 10:01:40)-RS232 0 Ser_Receive Time out!!!RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:40)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:40)-Sam power get all status failed!
-(2018-04-21 10:01:40)-
-(2018-04-21 10:01:45)-RS232 0 Ser_Receive Time out!!!
-(2018-04-21 10:01:50)-RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:50)-
-(2018-04-21 10:01:50)-File length = 786464
-(2018-04-21 10:01:50)-Transmitting file to service board, transmitted   0%  0%  0%  0%  0%  0%  1%  1%  1%  1%  1%  1%  1%  2%  2%  2%  2%  2%  2%  2%  2%  3%  3%  3%  3%  3%  3%  3%  4%  4%  4%  4%  4%  4%  5%  5%  5%  5%  5%  5%  6%  6%  6%  6%  6%  6%  7%  7%  7%  7%  7%  8%  8%  8%TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:50)-Sam power get all status failed!
-(2018-04-21 10:01:50)-  8%  8%  8%  9%  9%  9%  9%  9%  9% 10% 10% 10% 10% 10% 10% 11% 11% 11% 11% 11% 11% 11% 12% 12% 12% 12% 12% 13% 13% 13% 13% 13% 13% 13% 14% 14% 14% 14% 14% 15% 15% 15% 15% 15% 15% 16% 16% 16% 16% 16% 16% 17% 17% 17% 17% 17% 17% 17% 17% 18% 18% 18%RS232 0 Ser_Receive Time out!!! 18% 18% 18% 19% 19% 19% 19% 19% 19% 20% 20% 20% 20% 20% 20% 21% 21% 21% 21% 21% 21% 22% 22% 22% 22% 22% 23% 23% 23% 23% 23% 23% 24% 24% 24% 24% 24% 24% 25% 25% 25% 25% 25% 26% 26% 26% 26% 26% 26% 26% 27% 27% 27% 27% 27% 27% 27% 28% 28% 28% 28%RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:01:50)- 28% 28% 29% 29% 29% 29% 29% 29% 30% 30% 30% 30% 30% 30% 31% 31% 31% 31% 31% 31% 31% 32% 32% 32% 32% 32% 32% 33% 33% 33% 33% 33% 33% 34% 34% 34% 34% 34% 34% 35% 35% 35% 35% 35% 35% 36% 36% 36% 36% 36% 36% 36% 37% 37% 37% 37% 37% 37% 38%TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:01:50)-Sam power get all status failed!
-(2018-04-21 10:01:50)- 38% 38% 38% 38% 38% 39% 39% 39% 39% 39% 40% 40% 40% 40% 40% 40% 40% 41% 41% 41% 41% 41% 41% 42% 42% 42% 42% 42% 42% 43% 43% 43% 43% 43% 43% 44% 44% 44% 44% 44% 44% 45%
-(2018-04-21 10:01:55)- 45% 45% 45% 45% 45% 46% 46% 46% 46% 46% 47% 47% 47% 47% 47% 47% 48% 48% 48% 48% 48% 48% 49% 49% 49% 49% 49% 49% 50% 50% 50% 50% 50% 51% 51% 51% 51% 51% 51% 51% 52% 52% 52% 52% 52% 53% 53% 53% 53% 53% 53% 54% 54% 54% 54% 54% 55% 55% 55% 55% 55% 55% 55% 56% 56% 56% 56% 56% 56% 57% 57% 57% 57% 57% 57% 57% 58% 58% 58% 58% 58% 58% 59% 59% 59% 59% 59% 59% 60% 60% 60% 60% 60% 60% 61% 61% 61% 61% 61% 62% 62% 62% 62% 62% 62% 62% 63% 63% 63% 63% 63% 64% 64% 64% 64% 64% 64% 65% 65% 65% 65% 65% 65% 66% 66% 66% 66% 66% 66% 67% 67% 67% 67% 67% 68% 68% 68% 68% 68% 68% 69% 69% 69% 69% 69% 69% 70% 70% 70% 70% 70% 70% 71% 71% 71% 71% 71% 72% 72% 72% 72% 72% 72% 73% 73% 73% 73% 73% 73% 74% 74% 74% 74% 74% 74% 75% 75% 75% 75% 75% 75% 76% 76% 76% 76% 76% 76% 76% 77% 77% 77% 77% 77% 78% 78% 78% 78% 78% 78% 79% 79% 79% 79% 79% 80% 80% 80% 80% 80% 80% 80% 81% 81% 81% 81% 81% 82% 82% 82% 82% 82% 82% 83% 83% 83% 83% 83% 83% 84% 84% 84% 84% 84% 85% 85% 85% 85% 85% 85% 85% 86% 86% 86% 86% 86% 87% 87% 87% 87% 87% 87% 88% 88% 88% 88% 88% 89% 89% 89% 89% 89%RS232 0 Ser_Receive Time out!!! 89% 89% 90% 90% 90% 90% 90% 91% 91% 91% 91% 91% 91% 91% 92% 92% 92% 92% 92% 92% 93% 93% 93% 93% 93% 93% 94% 94% 94% 94% 94% 94% 94% 95% 95% 95% 95% 95% 96% 96%
-(2018-04-21 10:02:00)- 96% 96% 96% 96% 96% 97% 97% 97% 97% 97% 97% 97% 98% 98% 98% 98% 98% 98% 98% 99% 99%RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:02:00)- 99% 99% 99% 99% 99%TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:02:00)-Sam power get all status failed!
-(2018-04-21 10:02:00)-100%
-(2018-04-21 10:02:00)-Writing file to flash of service board, please wait... 
-(2018-04-21 10:02:00)-Write flash about 500s, current waiting  0s  0s
-(2018-04-21 10:02:00)-Finished.RS232 0 Ser_Receive Time out!!!
-(2018-04-21 10:02:05)-
-(2018-04-21 10:02:05)-Copy file successfully!
-(2018-04-21 10:02:05)-Raisecom# 
-(2018-04-21 10:02:05)-Raisecom# 
-(2018-04-21 10:02:05)-Raisecom# 
-(2018-04-21 10:02:05)-Raisecom# 
-(2018-04-21 10:02:05)-Raisecom# 
-(2018-04-21 10:02:05)-Raisecom# 
-(2018-04-21 10:02:05)-Raisecom# 
-(2018-04-21 10:02:05)-Raisecom# RS232 0 Ser_Receive Time out!!!rs232RecvTask 0 -655 timeout!!!
-(2018-04-21 10:02:05)-TRC-ERR : 493@sam_power_api.c
-(2018-04-21 10:02:05)-Sam power get all status failed!
-(2018-04-21 10:02:05)-RS232 0 Ser_Receive Time out!!!
