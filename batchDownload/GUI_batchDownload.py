@@ -209,6 +209,8 @@ class Application(Frame):
             os.mkdir(self.conf_path)
 
     def saveDevList(self):#save ftp setting too
+        if not self.DevListText.get('1.0','end'):#如果为空则直接退出function
+            return
         if os.path.isfile(self.conf_fresh_dev):
             os.remove(self.conf_fresh_dev)
         if os.path.isfile(self.conf_fresh_ftp):
@@ -232,6 +234,8 @@ class Application(Frame):
         conf_history_writer.close()
         conf_ftp_writer.close()
     def saveCardList(self):
+        if not self.CardListText.get('1.0','end'):#如果为空则直接退出function
+            return
         if os.path.isfile(self.conf_fresh_card):
             os.remove(self.conf_fresh_card)
         print('save DevList into:'+self.conf_fresh_card)

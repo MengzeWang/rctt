@@ -56,6 +56,7 @@ class Application(Frame):
             else:
                 self.invalidIpWarning.set(u'IP或掩码长度不对,\n请重新输入')
                 return
+        self.invalidIpWarning.set(u'设备IP地址:')
 
     def addCardToList(self):
         card_name=self.DevAddCardEntry.get()
@@ -140,6 +141,8 @@ class Application(Frame):
             #myTask3.join()
             #downloadState=telnetDownload.downloadSvcfileMulti_forGUI(DevList_clear,CardList_clear,FtpSet,resetAllOption)
             #tkMessageBox.showinfo('Message',downloadState)
+        else:
+            tkMessageBox.showinfo('Message',u'请检查，设备ip列表或升级板卡列表为空！')
 
     def UpLoadDevConfig(self):
         DevList=self.DevListText.get('1.0','end')
@@ -199,6 +202,9 @@ class Application(Frame):
             os.mkdir(self.conf_path)
 
     def saveDevList(self):#save ftp setting too
+        if not self.DevListText.get('1.0','end').strip():#如果为空则直接退出function
+            print(u'设备ip列表为空，不保存')
+            return
         if os.path.isfile(self.conf_fresh_dev):
             os.remove(self.conf_fresh_dev)
         if os.path.isfile(self.conf_fresh_ftp):
@@ -222,6 +228,9 @@ class Application(Frame):
         conf_history_writer.close()
         conf_ftp_writer.close()
     def saveCardList(self):
+        if not self.CardListText.get('1.0','end').strip():#如果为空则直接退出function
+            print(u'板卡列表为空，不保存')
+            return
         if os.path.isfile(self.conf_fresh_card):
             os.remove(self.conf_fresh_card)
         print('save DevList into:'+self.conf_fresh_card)
@@ -283,12 +292,13 @@ class Application(Frame):
         self.DevAddDeviceLabel_Father.pack(side=LEFT,expand='no',anchor='nw')
 
         self.invalidIpWarning = StringVar()
-        self.DevAddDevLabel=Label(self.DevAddDeviceLabel_Father,text=u'设备IP地址:',textvariable = self.invalidIpWarning,width=15,height=3)#width=15, height=5
+        self.invalidIpWarning.set(u'设备IP地址:')
+        self.DevAddDevLabel=Label(self.DevAddDeviceLabel_Father,textvariable = self.invalidIpWarning,width=15,height=2)#width=15, height=5
         self.DevAddDevLabel.pack(side=TOP,expand='no')
         self.defaultIp = StringVar()
         self.DevAddDevEntry=Entry(self.DevAddDeviceLabel_Father,textvariable = self.defaultIp)
         self.DevAddDevEntry.pack(side=TOP,expand='no')
-        self.DevAddLabel2=Label(self.DevAddDeviceLabel_Father,text=u'设备IP掩码:',width=15,height=3)#width=15, height=5
+        self.DevAddLabel2=Label(self.DevAddDeviceLabel_Father,text=u'设备IP掩码:',width=15,height=1)#width=15, height=5
         self.DevAddLabel2.pack(side=TOP,expand='no')
         self.defaultIpMask = StringVar()
         self.DevAddEntry2=Entry(self.DevAddDeviceLabel_Father,textvariable = self.defaultIpMask)
